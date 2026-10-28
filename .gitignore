@@ -1,0 +1,7 @@
+# Only the deck itself is published; source photos, videos and documents stay local.
+/*
+!/index.html
+!/assets/
+!/README.md
+!/.gitignore
+.DS_Store
